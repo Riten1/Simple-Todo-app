@@ -43,7 +43,7 @@ const InputTodo = () => {
   return (
     <>
       <div className="main-div">
-        <h2>Todo List</h2>
+        <h2>To-Do List</h2>
         <div className="input-section">
           <input
             name="todo"
